@@ -1,0 +1,16 @@
+job_profile_crawler/
+│
+├── crawlers/
+│   ├── job_crawler.py
+│   └── profile_crawler.py
+│
+├── database/
+│   ├── db_setup.py
+│   └── models.py
+│
+├── api/
+│   ├── app.py
+│   └── routes.py
+│
+├── requirements.txt
+└── README.md
