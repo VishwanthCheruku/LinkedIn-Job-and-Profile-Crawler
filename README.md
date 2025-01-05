@@ -16,7 +16,8 @@ This project aims to create a system that crawls job postings and LinkedIn profi
 - **Profile Matching**: Based on designation, location, and skills.
 
 ## System Design
-- **Architecture Diagram**: [Insert diagram here]
+- **Architecture Diagram**: ![image](https://github.com/user-attachments/assets/a0c3ad2b-2035-47fb-970a-dbf10c7aee27)
+
 - **Database Schema**: Jobs and Profiles tables with appropriate indexing.
 - **API Structure**: Two main endpoints for fetching profiles and jobs.
 
